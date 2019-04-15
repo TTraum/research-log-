@@ -7,4 +7,4 @@ So far this week has been pretty close to what I was expecting, and I feel confi
 
 20190415 (week 2)
 
-legos!!!! working on revising initial design by adding 6 more pieces, ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+legos!!!! working on revising initial design by adding 6 more pieces, [[https://github.com/TTraum/repository/blob/research-log/img/legoproject.jpg|alt=lego]]
