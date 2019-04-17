@@ -13,3 +13,4 @@ legos!!!! working on revising initial design by adding 6 more pieces, [![(https:
 It worked!!!!
 Ok next on the to do list is figureing out how to add my lego ppt to github to share it through this medium.
 ## link to project https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project-Brandt.pptx
+Ive found the **issues** tab on github.com helped me add usable links to my research log ie. the pictures and lego power point
