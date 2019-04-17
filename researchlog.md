@@ -12,3 +12,4 @@ legos!!!! working on revising initial design by adding 6 more pieces, [![(https:
 (test)![](https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project1.jpg)
 It worked!!!!
 Ok next on the to do list is figureing out how to add my lego ppt to github to share it through this medium.
+https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project-Brandt.pptx
