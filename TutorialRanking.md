@@ -1,4 +1,4 @@
 #Mark down guides
-_ranking from 1-5_ 1 being the most usefull 5 being least 
+_ranking from 1-5_
 **https://guides.github.com/features/mastering-markdown/
 
