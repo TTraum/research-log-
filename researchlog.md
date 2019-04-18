@@ -17,5 +17,5 @@ Ive found the **issues** tab on github.com helped me add usable links to my rese
 It's thursday week 2 and were showing others our lego project
 1. ## does it work?
 2. ## was there a breakdown where/when?
-3. ## strenghts 
+3. ## strengths
 4. ## areas of imporovement
