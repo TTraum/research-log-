@@ -20,3 +20,4 @@ It's thursday week 2 and were showing others our lego project
 2. ## was there a breakdown where/when?
 3. ## strengths
 4. ## areas of imporovement
+worked Sams a fellow students spaceship lego concept and one more landrover concept from 
