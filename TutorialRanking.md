@@ -1,10 +1,10 @@
  Mark down guides
 =================
 ranked from 1-5, 
-1. **https://guides.github.com/features/mastering-markdown/ 
+1. https://guides.github.com/features/mastering-markdown/ 
 First guide that popped up for me very usefull,lets you download to pdf which I use like a cheat sheet. very good place to begin used this guide to on headers 
 * * * 
-2. **https://blog.ghost.org/markdown/ 
+2. https://blog.ghost.org/markdown/ 
 This one stood out to me I liked the layout of the website. Used this one to find out how to add a website using a specific word as the link and not just the whole website, good example is
 The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog). It showed me that markdown files can look pretty cool with the right formatting.
 * * * 
