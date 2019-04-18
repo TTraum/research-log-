@@ -15,3 +15,7 @@ Ok next on the to do list is figureing out how to add my lego ppt to github to s
 ## link to project https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project-Brandt.pptx
 Ive found the **issues** tab on github.com helped me add usable links to my research log ie. the pictures and lego power point.
 It's thursday week 2 and were showing others our lego project
+1. ## does it work?
+2. ## was there a breakdown where/when?
+3. ## strenghts 
+4. ## areas of imporovement
