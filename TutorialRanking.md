@@ -15,7 +15,8 @@ This guide stood out to me since it looked like a book and I like books, the ind
 This guides cool name made me click on it and the color scheme was my favorite color. It had its philosophy outling what they auther felt like how his guides intended use. Used this guide to learn to make lists in markdown file.
 * * * 
 5. https://zapier.com/blog/beginner-ultimate-guide-markdown/
-This guide had everything nice layout, very simple language moveing GiFs which showed examples.This one showed me how to add images to my markdown *file 
+This guide had everything nice layout, very simple language moveing GiFs which showed examples.This one showed me how to add images to my markdown *file ![](https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project1.jpg)
+
 
 1.Headers
 2.Lists
