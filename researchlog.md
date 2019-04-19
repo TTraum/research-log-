@@ -8,12 +8,12 @@ So far this week has been pretty close to what I was expecting, and I feel confi
 
 ## 20190415 (week 2)
 
-legos!!!! working on revising initial design by adding 6 more pieces, [link to lego proejct!](https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project1.jpg)
+legos!!!! working on revising initial design by adding 6 more pieces, [link to lego picture!](https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project1.jpg)
 ]. Worked on powerpoint for lego mini project.Its Tuesday found a good template that worked with the lego theme hopefully it is easily usable tool. Found my tablet laptop pretty handy, I took pictures of the steps and added them to power point pretty simple. Need to look up markdown guides to see which ones I like.
 (test)![](https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project1.jpg)
 It worked!!!!
 Ok next on the to do list is figureing out how to add my lego ppt to github to share it through this medium. You can can click on the link and get to my project.
-## link to project https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project-Brandt.pptx
+[link to project!]https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project-Brandt.pptx
 Ive found the **issues** tab on github.com helped me add usable links to my research log ie. the pictures and lego power point.
 It's thursday week 2 and were showing others our lego project
 1. ## does it work? yes it did 
