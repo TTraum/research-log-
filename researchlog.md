@@ -20,5 +20,5 @@ It's thursday week 2 and were showing others our lego project
 2. ## was there a breakdown where/when?- they seemed to follow it as i attended 
 3. ## strengths- simple and the pictures where clear
 4. ## areas of imporovement-try other format other then Power point
-worked Sams a fellow students spaceship lego concept and one more landrover concept from 
-Friday is here, need to work on making hyper links displaying URLs is bad!!! figured out how to hyperlink pretty fast and it does look better 
+I worked Sams a fellow students spaceship lego concept and one more landrover concept from 
+Friday is here, need to work on making hyper links, displaying URLs is bad!!! figured out how to hyperlink pretty fast and it does look better 
