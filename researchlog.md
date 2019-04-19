@@ -8,7 +8,7 @@ So far this week has been pretty close to what I was expecting, and I feel confi
 
 ## 20190415 (week 2)
 
-legos!!!! working on revising initial design by adding 6 more pieces, [link to lego picture!](https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project1.jpg)
+legos!!!! working on revising initial design by adding 6 more pieces,[link to lego picture!](https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project1.jpg)
 ]. Worked on powerpoint for lego mini project.Its Tuesday found a good template that worked with the lego theme hopefully it is easily usable tool. Found my tablet laptop pretty handy, I took pictures of the steps and added them to power point pretty simple. Need to look up markdown guides to see which ones I like.
 (test)![](https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project1.jpg)
 It worked!!!!
