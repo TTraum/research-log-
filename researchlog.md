@@ -13,7 +13,7 @@ legos!!!! working on revising initial design by adding 6 more pieces,[link to le
 (test)![](https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project1.jpg)
 It worked!!!!
 Ok next on the to do list is figureing out how to add my lego ppt to github to share it through this medium. You can can click on the link and get to my project.
-[link to project!]https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project-Brandt.pptx
+[link to project!](https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project-Brandt.pptx)
 Ive found the **issues** tab on github.com helped me add usable links to my research log ie. the pictures and lego power point.
 It's thursday week 2 and were showing others our lego project
 1. ## does it work? yes it did 
