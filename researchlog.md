@@ -16,9 +16,9 @@ Ok next on the to do list is figureing out how to add my lego ppt to github to s
 [link to project!](https://github.com/TTraum/research-log-/blob/weekly-log/lego%20project-Brandt.pptx)
 Ive found the **issues** tab on github.com helped me add usable links to my research log ie. the pictures and lego power point.
 It's thursday week 2 and were showing others our lego project
-1. ## does it work? yes it did 
-2. ## was there a breakdown where/when? they seemed to follow it as i attended 
-3. ## strengths simple and the pictures where clear
-4. ## areas of imporovement
+1. ## does it work?- yes it did 
+2. ## was there a breakdown where/when?- they seemed to follow it as i attended 
+3. ## strengths- simple and the pictures where clear
+4. ## areas of imporovement-try other format other then Power point
 worked Sams a fellow students spaceship lego concept and one more landrover concept from 
-Friday is here, need to work on making hyper links displaying URLs is bad!!!
+Friday is here, need to work on making hyper links displaying URLs is bad!!! figured out how to hyperlink pretty fast and it does look better 
