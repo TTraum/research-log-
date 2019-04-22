@@ -24,4 +24,4 @@ It's thursday week 2 and were showing others our lego project
 I worked Sams a fellow students spaceship lego concept and one more landrover concept from 
 Friday is here, need to work on making hyper links, displaying URLs is bad!!! figured out how to hyperlink pretty fast and it does look better 
 ##  20190422 (week 3)
-Piere hacker!!! getting started this week, _lowfi vs. _hifi
+Piere hacker!!! getting started this week, _lowfi_ vs. _hifi_
