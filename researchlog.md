@@ -24,4 +24,6 @@ It's thursday week 2 and were showing others our lego project
 I worked Sams a fellow students spaceship lego concept and one more landrover concept from 
 Friday is here, need to work on making hyper links, displaying URLs is bad!!! figured out how to hyperlink pretty fast and it does look better 
 ##  20190422 (week 3)
-Piere hacker!!! getting started this week, _lowfi_ vs. _hifi_.Looks like where going to draft a survey on what kind of programs other students are using while in college. Working on the questions that the survey will ask today. Tuesday working with google drive in the class to come up with a survey for the pierce hacker webpage.
+Piere hacker!!! getting started this week, _lowfi_ vs. _hifi_.Looks like where going to draft a survey on what kind of programs other students are using while in college. Working on the questions that the survey will ask today. Tuesday working with google drive in the class to come up with a survey for the pierce hacker webpage. Things to consider when making a survey _Information Competency Defined. 
+1. Information literacy/competency is a set of abilities requiring individuals to “recognize when information is needed and have the ability to locate, evaluate, and use effectively the needed information.”
+2. 
