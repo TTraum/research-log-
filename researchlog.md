@@ -34,4 +34,6 @@ Piere hacker!!! getting started this week, _lowfi_ vs. _hifi_.Looks like where g
 5. Avoid double-barreled questions. ...
 6. Offer an “out” for questions that don't apply. ...
 7. Avoid offering too few or too many options.
-Going to use survey data to write an anlalitical report 
+Going to use survey data to write an anlalitical report, got pretty good foramt started on google docs got 7 questions that could possibly be on survey. 
+## mid week 
+
