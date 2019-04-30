@@ -38,4 +38,4 @@ Going to use survey data to write an anlalitical report, got pretty good foramt 
 ## mid week 
 worked with my group to try and refine the survey questions felt like we did a lot of talking but didnt get anything accomplished, maybe thursday will be more progressive. More specific questions is what we came up with in the group. We focused on Canvas and Word and what features did people use.
 ##  20190229 (Week 4)
-Survey is getting finlalized this week should be interesting, google collablration/workflow I feel could be better but still making it happen
+Survey is getting finlalized this week should be interesting, google collablration/workflow I feel could be better but still making it happen. Emailing out the survey to my communication class hopufully get some good respones.
