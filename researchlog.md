@@ -37,7 +37,9 @@ Piere hacker!!! getting started this week, _lowfi_ vs. _hifi_.Looks like where g
 Going to use survey data to write an anlalitical report, got pretty good foramt started on google docs got 7 questions that could possibly be on survey. 
 ## mid week 
 worked with my group to try and refine the survey questions felt like we did a lot of talking but didnt get anything accomplished, maybe thursday will be more progressive. More specific questions is what we came up with in the group. We focused on Canvas and Word and what features did people use.
-##  20190229 (Week 4)
+##  20190429 (Week 4)
 Survey is getting finlalized this week should be interesting, google collablration/workflow I feel could be better but still making it happen. Emailing out the survey to my communication class hopufully get some good respones.
 ## mid week 
 Today we will see how the response to are emails where and analyze our findings 
+## 20190507 (week 5)
+working on analyitical report for the Pierce Hacker project. Found a good resource blog on the reports and started to mees around with formatting my own. So far I have a reall rough draft but Im deffinlty getting someware.
