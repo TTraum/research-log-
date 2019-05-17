@@ -1,10 +1,10 @@
 ---
-title: Ad block use it! Or don't...
-authors:Dario Brandt
-
+title: Ad block use it! Or don't
+authors:
+- Dario Brandt
 date: 2019-05-15
 reviewers:
-- Matt, Greg
+- Matt Greg
 - Jason Loan
 layout: lesson
 difficulty level: low 
