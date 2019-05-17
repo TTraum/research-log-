@@ -22,21 +22,24 @@ Students will understand how to use an Ad Blocking extension to help eliminate u
 1. PC/laptop
 2. Chrome web browser
 
-## Overview
-https://en.wikipedia.org/wiki/AdBlock
 ## What is Adblock? 
 Ad block is a content filtering and ad blocking browser extension for the Google Chrome, Apple Safari (desktop and mobile) Firefox, Opera, and Microsoft Edge web browsers
 
 ## Why do we need Adblock? 
 AdBlock allows users to prevent page elements, such as advertisements, from being displayed. 
 
-## Ad Blocking is a great if you don't to allow third-party tracking and targeting.  If you like advertisement that and specifically ones that show you your interests then you might not need Adblock. If you visit sites that have inappropriate ads or pop up ads you might want Adblock.    
+_Ad Blocking is a great if you don't to allow third-party tracking and targeting.  If you like advertisement that and specifically ones that show you your interests then you might not need Adblock. If you visit sites that have inappropriate ads or pop up ads you might want Adblock.    
 
 
 
-## Lesson Steps/Components [as many as needed]
+## Lesson Steps/Components
+1. Understanding the need for an Adblocker 
+2. Finding an Ad Blocking extension in Chrome web browser
+3. Popular Ad Blocking extensions
+4. Using Adblock extension
 
 ## Credits, Further Reading, etc.
+[Adblock](https://en.wikipedia.org/wiki/AdBlock)
 
 * You may find it necessary to reference and cite information from another source.
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
