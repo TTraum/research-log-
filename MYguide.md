@@ -28,7 +28,7 @@ Ad block is a content filtering and ad blocking browser extension for the Google
 ## Why do we need Adblock? 
 AdBlock allows users to prevent page elements, such as advertisements, from being displayed. 
 
-_Ad Blocking is a great if you don't to allow third-party tracking and targeting.  If you like advertisement that and specifically ones that show you your interests then you might not need Adblock. If you visit sites that have inappropriate ads or pop up ads you might want Adblock.    
+*Ad Blocking is a great if you don't to allow third-party tracking and targeting.  If you like advertisement that and specifically ones that show you your interests then you might not need Adblock. If you visit sites that have inappropriate ads or pop up ads you might want Adblock*   
 
 
 
