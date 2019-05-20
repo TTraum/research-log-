@@ -42,3 +42,7 @@ AdBlock allows users to prevent page elements, such as advertisements, from bein
 [Adblock](https://en.wikipedia.org/wiki/AdBlock)
 
 
+
+**Actual Guide
+![2019-05-20 (6)](https://user-images.githubusercontent.com/49451690/58041395-dbcc9880-7aec-11e9-89e5-9b77bd1df685.png)
+
