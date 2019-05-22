@@ -44,7 +44,7 @@ AdBlock allows users to prevent page elements, such as advertisements, from bein
 
 
 ## Guide
-:sparkles: 1.In your google chrome browser enter google chrome extensions adblock in the address bar**
+:sparkles: 1. In your google chrome browser enter google chrome extensions adblock in the address bar :sparkles:
 ![2019-05-20 (6)](https://user-images.githubusercontent.com/49451690/58041395-dbcc9880-7aec-11e9-89e5-9b77bd1df685.png)
 **STEP 2 Click on the link for Adblock**
 ![step2](https://user-images.githubusercontent.com/49451690/58116244-b1441380-7bb0-11e9-8bff-785a0c8fa572.png)
