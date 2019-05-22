@@ -46,17 +46,17 @@ AdBlock allows users to prevent page elements, such as advertisements, from bein
 ## Guide
 :sparkles: 1. In your google chrome browser enter google chrome extensions adblock in the address bar :sparkles:
 ![2019-05-20 (6)](https://user-images.githubusercontent.com/49451690/58041395-dbcc9880-7aec-11e9-89e5-9b77bd1df685.png)
-**STEP 2 Click on the link for Adblock**
+:sparkles: 2. Click on the link for Adblock :sparkles:
 ![step2](https://user-images.githubusercontent.com/49451690/58116244-b1441380-7bb0-11e9-8bff-785a0c8fa572.png)
-**STEP 3 Click Blue add to Chrome button and wait for popup window**
+:sparkles: 3. Click Blue add to Chrome button and wait for popup window :sparkles:
 ![step3](https://user-images.githubusercontent.com/49451690/58116270-c0c35c80-7bb0-11e9-90b4-67ba7b8f0819.png)
-**STEP 4 click ADD extension button on Popup**
+:sparkles: 4. click ADD extension button on Popup :sparkles:
 ![step4](https://user-images.githubusercontent.com/49451690/58116305-d173d280-7bb0-11e9-944a-df709201e7da.png)
-**STEP 5 Wait for installing Adblock to finish notice red stop sign logo in upper right of your web browser**
+:sparkles: 5. Wait for installing Adblock to finish notice red stop sign logo in upper right of your web browser :sparkles:
 ![step5](https://user-images.githubusercontent.com/49451690/58117650-e736c700-7bb3-11e9-9e31-77e51dc012ee.png)
-**STEP 6 Feel free to read and donate to publisher if you feel genarous donation is not neccesery**
+:sparkles: 6. Feel free to read and donate to publisher if you feel genarous donation is not neccesery :sparkles:
 ![step6](https://user-images.githubusercontent.com/49451690/58117667-f3bb1f80-7bb3-11e9-95ff-beb8e9b697e9.png)
-**STEP 7 ENJOY AD free web browsing 
+:sparkles: 7 ENJOY AD free web browsing :sparkles:
 
 ## Other ADblocking extention option
 **There are several adblocking extentions you could add to your Chrome web broswer another Adblocking extenstion to consider is UBLOCK and you can find and install it the same way**
