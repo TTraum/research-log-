@@ -48,10 +48,20 @@ AdBlock allows users to prevent page elements, such as advertisements, from bein
 ![2019-05-20 (6)](https://user-images.githubusercontent.com/49451690/58041395-dbcc9880-7aec-11e9-89e5-9b77bd1df685.png)
 **STEP 2 Click on the link for Adblock**
 ![step2](https://user-images.githubusercontent.com/49451690/58116244-b1441380-7bb0-11e9-8bff-785a0c8fa572.png)
+**STEP 3 Click install Blue add to Chrome button and wait for popup window**
 ![step3](https://user-images.githubusercontent.com/49451690/58116270-c0c35c80-7bb0-11e9-90b4-67ba7b8f0819.png)
+**STEP 4 click ADD extension button on Popup**
 ![step4](https://user-images.githubusercontent.com/49451690/58116305-d173d280-7bb0-11e9-944a-df709201e7da.png)
+**STEP 5 Wait for installing Adblock to finish notice red stop sign logo in upper right of your web browser**
 ![step5](https://user-images.githubusercontent.com/49451690/58117650-e736c700-7bb3-11e9-9e31-77e51dc012ee.png)
+**STEP 6 Feel free to read and donate to publisher if you feel genarous donation is not neccesery**
 ![step6](https://user-images.githubusercontent.com/49451690/58117667-f3bb1f80-7bb3-11e9-95ff-beb8e9b697e9.png)
+**STEP 7 ENJOY AD free web browsing 
+
+## Other ADblock options 
+**Another Adblocking extenstion to consider is UBLOCK and you can find and install it the same way 
+![Ublock](https://user-images.githubusercontent.com/49451690/58195182-3fd19700-7c7c-11e9-842b-d1cb03688cdc.png)
+
 
 ## Another popular Adblocking extentsion
 ![Ublock](https://user-images.githubusercontent.com/49451690/58117786-3aa91500-7bb4-11e9-9770-45d4b1d21155.png)
