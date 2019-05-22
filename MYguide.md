@@ -59,7 +59,7 @@ AdBlock allows users to prevent page elements, such as advertisements, from bein
 **STEP 7 ENJOY AD free web browsing 
 
 ## Other ADblocking extention option
-**There are several adblocking extentions you could add to your Chrome web broswer another Adblocking extenstion to consider is UBLOCK and you can find and install it the same way
+**There are several adblocking extentions you could add to your Chrome web broswer another Adblocking extenstion to consider is UBLOCK and you can find and install it the same way**
 ![Ublock](https://user-images.githubusercontent.com/49451690/58195182-3fd19700-7c7c-11e9-842b-d1cb03688cdc.png)
 
 
