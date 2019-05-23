@@ -63,7 +63,12 @@ AdBlock allows users to prevent page elements, such as advertisements, from bein
 ![Ublock](https://user-images.githubusercontent.com/49451690/58195182-3fd19700-7c7c-11e9-842b-d1cb03688cdc.png)
 
 ## Features and how use ADblock 
-
+:sparkles: Notice the AD on this webpage without ADBLOCK extentsion :sparkles:
+![2019-05-23 (2)](https://user-images.githubusercontent.com/49451690/58272794-2431c380-7d44-11e9-9477-8be45495da71.png)
+:sparkles: Notice the red stop sign in the upper right corner it displays how many Ads are filtered out of this web page :sparkles:
+![2019-05-23 (3)](https://user-images.githubusercontent.com/49451690/58273288-3ceea900-7d45-11e9-95ea-07efecd1a94d.png)
+:sparkles: Clicking on the red stop sign brings up a menue where you can do things like pause Adblocking on the sites you prefer to see Ads and see how many ADs are actually being blocked :sparkles:
+![2019-05-23 (4)](https://user-images.githubusercontent.com/49451690/58273443-98209b80-7d45-11e9-82be-68f6d19ee1bb.png)
 
 
 
