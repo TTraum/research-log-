@@ -54,7 +54,7 @@ AdBlock allows users to prevent page elements, such as advertisements, from bein
 ![step4](https://user-images.githubusercontent.com/49451690/58116305-d173d280-7bb0-11e9-944a-df709201e7da.png)
 :sparkles: 5. Wait for installing Adblock to finish notice red stop sign logo in upper right of your web browser :sparkles:
 ![step5](https://user-images.githubusercontent.com/49451690/58117650-e736c700-7bb3-11e9-9e31-77e51dc012ee.png)
-:sparkles: 6. Feel free to read and donate to publisher if you feel genarous donation is not neccesery :sparkles:
+:sparkles: 6. Feel free to read and donate to publisher if you feel generous; donation is not neccesery :sparkles:
 ![step6](https://user-images.githubusercontent.com/49451690/58117667-f3bb1f80-7bb3-11e9-95ff-beb8e9b697e9.png)
 :sparkles: 7. ENJOY AD free web browsing :sparkles:
 
