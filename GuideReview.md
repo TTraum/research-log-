@@ -1,6 +1,6 @@
 ---
 name: Mitch, Nhan, Rodrigo
-about: Use this template for offering an initial review.
+about: Student Revision of intitial Pierce Hacker survey
 title: Initial Review for [Revised Survey]
 labels: ''
 assignees: ''
