@@ -10,7 +10,7 @@ assignees: ''
 ## Commenting on/Offering Feedback on a Lesson for PierceHacker
 Question 9 confused me on the revised survey it asked me two questions but only gave me the prompt to answer the second question. Question 14 I liked the way the writer used humor in his answer prompt.
 ## Audience
-Students are being addressed so this sureys's audience is very clear
+Students are being addressed so this surveys's audience is very clear
 
 ## Getting Ready
 You need access to a PC/laptop to take this survey 
