@@ -43,3 +43,8 @@ Survey is getting finlalized this week should be interesting, google collablrati
 Today we will see how the response to are emails where and analyze our findings 
 ## 20190507 (week 5)
 working on analyitical report for the Pierce Hacker project. Found a good resource blog on the reports and started to mees around with formatting my own. So far I have a reall rough draft but Im deffinlty getting someware.
+## (week 9)
+final project paths to consider 
+1. path 1. OER Tech writing Resource
+2. Pierce Hacker 
+3. Design your own project.
