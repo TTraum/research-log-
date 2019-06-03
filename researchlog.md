@@ -48,3 +48,7 @@ final project paths to consider
 1. path 1. OER Tech writing Resource
 2. Pierce Hacker 
 3. Design your own project.
+phases 
+1. research 
+2. draft
+3. share
